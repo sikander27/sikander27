@@ -1,7 +1,7 @@
 [![MasterHead](https://sikander27.github.io/assets/images/banner.png)](https://sikander27.github.io/)
 
 <h1 align="center">Hi 👋, I'm Sikander S. Khan</h1>
-<h3 align="center">Software Developer | Problem Solver | Passionate & Curios Learner</h3>
+<h3 align="center">Software Developer | Problem Solver | Passionate & Curious Learner</h3>
 
 
 
