@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/imsikandarkhan" target="blank"><img src="https://img.shields.io/twitter/follow/imsikandarkhan?logo=twitter&style=for-the-badge" alt="imsikandarkhan" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **HOW TO BUILD SCALABLE PRODUCT**
 
 - 👨‍💻 All of my projects are available at [https://sikander27.github.io/](https://sikander27.github.io/)
 
