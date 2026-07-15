@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sikander S. Khan</h1>
 <h3 align="center">Software Developer | Problem Solver | Passionate & Curious Learner</h3>
 
+<h3>Currently I used mercurial(hg) as version control for work hence not many pushes on git in last 2 years.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://sikander27.github.io/assets/images/programmer.gif" />
